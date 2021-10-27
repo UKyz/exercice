@@ -1,0 +1,8 @@
+{
+  "name": "exercice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/UKyz/exercice.git",
+  "author": "vfauquembergue <vfauquembergue@scalair.fr>",
+  "license": "MIT"
+}
