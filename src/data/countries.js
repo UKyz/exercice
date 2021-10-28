@@ -1,4 +1,4 @@
-const data = [
+const countries = [
   {
     name: 'Dillauti',
     people:
@@ -438,5 +438,5 @@ const data = [
 ];
 
 module.exports = {
-  data
+  countries
 };
